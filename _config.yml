@@ -1,6 +1,6 @@
 # Setup
-title: Il-kwon Nam's GitHub
-url: https://getpoole.com
+title: LIMITLESS
+url: https://iknam86.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,7 +32,7 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: LIMITLESS
+  name: iknam86
   url: https://x.com/iknam86
   email: iknam86@gmail.com
 
